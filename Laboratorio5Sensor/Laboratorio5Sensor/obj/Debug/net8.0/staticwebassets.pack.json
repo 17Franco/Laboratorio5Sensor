@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Proyecto .Net\\Laboratorio5Sensor\\Laboratorio5Sensor\\Laboratorio5Sensor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Laboratorio5Sensor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Laboratorio5Sensor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Proyecto .Net\\Laboratorio5Sensor\\Laboratorio5Sensor\\Laboratorio5Sensor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Proyecto .Net\\Laboratorio5Sensor\\Laboratorio5Sensor\\Laboratorio5Sensor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Proyecto .Net\\Laboratorio5Sensor\\Laboratorio5Sensor\\Laboratorio5Sensor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Proyecto .Net\\Laboratorio5Sensor\\Laboratorio5Sensor\\Laboratorio5Sensor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Laboratorio5Sensor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Laboratorio5Sensor.props",
+      "PackagePath": "build\\Laboratorio5Sensor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Laboratorio5Sensor.props",
+      "PackagePath": "buildMultiTargeting\\Laboratorio5Sensor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Laboratorio5Sensor.props",
+      "PackagePath": "buildTransitive\\Laboratorio5Sensor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
